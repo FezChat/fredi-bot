@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:baileys@6.7.21",
+    "@whiskeysockets/baileys": "npm:wileys",
     "@dark-yasiya/scrap": "1.0.1",
     "@xaviabot/fb-downloader": "1.0.14",
     "darksadas-yt-pornhub-scrape": "^1.0.0",
